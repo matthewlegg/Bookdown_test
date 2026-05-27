@@ -108,6 +108,18 @@ This is a <em>sample</em> book written in <strong>Markdown</strong>. You can use
 <p>Each <strong>bookdown</strong> chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter <em>must</em> start with a first-level heading: <code># A good chapter</code>, and can contain one (and only one) first-level heading.</p>
 <p>Use second-level and higher headings within chapters like: <code>## A short section</code> or <code>### An even shorter section</code>.</p>
 <p>The <code>index.Rmd</code> file is required, and is also your first book chapter. It will be the homepage when you render the book.</p>
+<div id="smaller-heading-maybe" class="section level3" number="1.1.1">
+<h3>
+<span class="header-section-number">1.1.1</span> Smaller heading maybe?<a class="anchor" aria-label="anchor" href="#smaller-heading-maybe"><i class="fas fa-link"></i></a>
+</h3>
+<p>Lets try this</p>
+</div>
+<div id="and-another-one" class="section level3" number="1.1.2">
+<h3>
+<span class="header-section-number">1.1.2</span> And another one<a class="anchor" aria-label="anchor" href="#and-another-one"><i class="fas fa-link"></i></a>
+</h3>
+<p>Does this work?</p>
+</div>
 </div>
 <div id="render-book" class="section level2" number="1.2">
 <h2>
@@ -140,7 +152,12 @@ This is a <em>sample</em> book written in <strong>Markdown</strong>. You can use
     <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
       <ul class="nav navbar-nav">
 <li><a class="nav-link" href="#about"><span class="header-section-number">1</span> About</a></li>
-<li><a class="nav-link" href="#usage"><span class="header-section-number">1.1</span> Usage</a></li>
+<li>
+<a class="nav-link" href="#usage"><span class="header-section-number">1.1</span> Usage</a><ul class="nav navbar-nav">
+<li><a class="nav-link" href="#smaller-heading-maybe"><span class="header-section-number">1.1.1</span> Smaller heading maybe?</a></li>
+<li><a class="nav-link" href="#and-another-one"><span class="header-section-number">1.1.2</span> And another one</a></li>
+</ul>
+</li>
 <li><a class="nav-link" href="#render-book"><span class="header-section-number">1.2</span> Render book</a></li>
 <li><a class="nav-link" href="#preview-book"><span class="header-section-number">1.3</span> Preview book</a></li>
 </ul>

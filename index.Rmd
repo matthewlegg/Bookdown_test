@@ -37,6 +37,14 @@ Use second-level and higher headings within chapters like: `## A short section` 
 
 The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
 
+### Smaller heading maybe?
+
+Lets try this
+
+### And another one
+
+Does this work?
+
 ## Render book
 
 You can render the HTML version of this example book without changing anything:

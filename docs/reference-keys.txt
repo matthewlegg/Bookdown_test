@@ -4,6 +4,8 @@ eq:binom
 thm:tri
 about
 usage
+smaller-heading-maybe
+and-another-one
 render-book
 preview-book
 hello-bookdown

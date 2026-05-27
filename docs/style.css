@@ -1,3 +1,23 @@
+/* Import Roboto from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+/* Apply to whole document */
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  border-bottom: 3px solid #FFA947;
+}
+
+h2 {
+  border-bottom: 2px solid #FFA947;
+}
+
+h3 {
+  border-bottom: 1px solid #FFA947;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
