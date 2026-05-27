@@ -1,6 +1,6 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "Strahd Von Zarovich is a bellend"
+author: "Arodir Sintel"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
