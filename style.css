@@ -18,6 +18,32 @@ h3 {
   border-bottom: 1px solid #FFA947;
 }
 
+.sidebar-chapter a {
+  color: black;
+}
+
+.sidebar-chapter a:hover {
+  color: black;
+  font-weight: bold;
+  border-right: 3px solid #5DD880;
+}
+
+.sidebar-book a{
+  color: black;
+  padding-left: 6px;
+  display: block;
+  width: 100%;
+}
+
+.sidebar-book a:hover {
+  color: black;
+  font-weight: bold;
+  border-left: 3px solid #5DD880;
+  padding-left: 3px;
+  display: block;
+  width: 100%;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
