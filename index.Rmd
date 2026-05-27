@@ -17,6 +17,12 @@ github-repo: rstudio/bookdown-demo
 
 # About
 
+Strahd is an utter bellend, as you can see below:
+
+```{r strahd, echo=FALSE}
+knitr::include_graphics(rep("_images/strahd-dicaprio.png"))
+```
+
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
 ## Usage 
