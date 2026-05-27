@@ -15,35 +15,41 @@ link-citations: yes
 github-repo: rstudio/bookdown-demo
 ---
 
-# About
+# Welcome Adventurer, have some wine
 
 Strahd is an utter bellend, as you can see below:
-
-::: {.warning-box}
-Warning: bellend below
-:::
 
 ::: {.center-img}
 ![The bellend, Strahd von Zarovich](_images/strahd-dicaprio.png){width=70%}
 :::
 \
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+
+## Wait wtf, is this D&D beyond?
+
+No! This is just me fucking around with something called Rmarkdown to make a website for my future D&D setting. It's entirely created by me and published for free on GitHub. 
+
+
+### But why does it look like D&D beyond?
+
+Cause I'm messing with the formatting to make it a bit more familiar looking, stop asking questions
+
+### What if I want to ask more questions?
+
+Get Fucked
+
+::: {.warning-box}
+Warning: the rest of this is just placeholder text from the template I've been using to make sense of this stuff
+:::
 
 ## Usage 
+
+This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 
 Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
 
 The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
-
-### Smaller heading maybe?
-
-Lets try this
-
-### And another one
-
-Does this work?
 
 ## Render book
 

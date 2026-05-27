@@ -2,10 +2,11 @@ fig:nice-fig
 tab:nice-tab
 eq:binom
 thm:tri
-about
+welcome-adventurer-have-some-wine
+wait-wtf-is-this-dd-beyond
+but-why-does-it-look-like-dd-beyond
+what-if-i-want-to-ask-more-questions
 usage
-smaller-heading-maybe
-and-another-one
 render-book
 preview-book
 hello-bookdown
