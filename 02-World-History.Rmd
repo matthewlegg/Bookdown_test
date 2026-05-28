@@ -1,0 +1,33 @@
+# Hello world & history
+
+This will be an introduction into the world, and some basic information which will be required for the players to understand the rest of the setting guide in the book. It will cover:
+
+- World map will go here once made -
+
+## The state of the world
+
+Some things about the world and how it got to this point
+
+## In the beginning
+
+A bit about the ancient world, ruled by the big Ordo magical empire, taming of the world
+
+## The re-wilding
+
+Nature fighting back, causing the collapse of the empire and chaos to ensue
+
+## The rise of nations
+
+How the Kingdom of Albion and the Industrial legion formed from the ashes of the old empire
+
+Include some info on Arthurian mythos here, as it's important for Albion
+
+## Present day
+
+The precarious geopolitical landscape on which the current world rests, with the two factions vying for control over resources
+
+## Remnants
+
+What the Ordo magical emire left behind - remnant factions, the vaults, magical creatures raging through the lands, and many more things
+
+Then move on to the main setting guide for each area
