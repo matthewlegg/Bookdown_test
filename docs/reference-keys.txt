@@ -63,6 +63,13 @@ artificers
 biomancers
 apothecary-alchemists
 tamers-riders
+religion
+deities-demigods
+clerics-warlocks-champions
+instruments-artifacts
+favoured-weapons
+list-of-gods
+list-of-patrons
 bookdown-tutorial
 usage
 render-book
