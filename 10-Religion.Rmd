@@ -36,7 +36,11 @@ Gods_list <- read.csv("_data/Gods_list.csv", fileEncoding = "Windows-1252")
 
 datatable(
   Gods_list,
-  filter="top"
+  filter = "top",
+  options = list(
+    scrollX = TRUE,
+    responsive = TRUE
+  )
 )
 
 ```
