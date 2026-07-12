@@ -1,6 +1,6 @@
-# Races
+# Races & Species
 
-## Existing D&D Races allowed
+## Existing D&D Races & Species allowed
 
 Plasmoid
 
@@ -10,15 +10,15 @@ Grim Hollow Races
 
 Regular D&D: Human, Halfling, Elf, Aasimar, Tiefling, Dragonborn, Gnome, Dwarf, Genasi(4x from Mordenkainen's), Goblin, Hobgoblin, Kenku, Kobold, Tabaxi, Triton, Gith, Tortle, Dhampir, Hexblood, Reborn, Changeling, Duergar, Eladrin, Harengon, Shadar Kai, [Eberron: Forge of the Artificer races]
 
-## Notes on Large Races
+## Notes on Large Characters {#large-races}
 
-::: {.sub-heading}
-Large Creature Traits
+::: sub-heading
+Large Character Traits
 :::
-Unless otherwise specified, large creatures always have the following trait: 
+
+Unless otherwise specified, large player characters always gain the following traits:
 
 **Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. Your default maximum strength score is 22, and your maximum Dexterity score is 18.
-
 
 **Carrying Capacity.** Your carrying Capacity is your Strength score multiplied by 30. This is the weight (in pounds) that you can carry. You can push, drag, or lift a weight in pounds up to twice your carrying Capacity (or 60 times your Strength score). While pushing or dragging weight in excess of your carrying Capacity, your speed drops to 5 feet.
 
@@ -28,89 +28,158 @@ Unless otherwise specified, large creatures always have the following trait:
 
 **Food.** Due to your immense height and weight, you require 4x the amount of food of a medium humanoid.
 
-## Bearfolk 
+**Grappling** You have Advantage on any ability check you make to end the Grappled condition. You can also grapple creatures up to Huge size (or larger if your size has been increased beyond large)
+
+## Bearfolk
+
 (Apex Predator, Thick Hide, Wild Heart)
 
 ## Bugbears
-(As Mordenkainen's but with new powerful Build and clarification on reach)
+
+(As Mordenkainen's but with new powerful Build, option for large, and clarification on reach not affecting polearms)
 
 ## Centaurs
+
 (large size, charge attack, can't climb things)
 
 ## Dragonborn (big)
+
 (A mix of 5e 2024 and Fizban's Treasury of Dragons, with a powerful build variant)
 
-## Firbolgs
+## Earth Genasi
 
-::: {.sub-heading}
+(Gain Powerful build or large option)
+
+## Firbolg
+
+::: sub-heading
+Creature Type
+:::
+
+You are considered both a Humanoid and a Giant
+
+::: sub-heading
 Age
-::: 
+:::
+
 As giant humanoids originating in the feywild, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
 
-::: {.sub-heading}
+::: sub-heading
 Size
 :::
+
 Firbolg are between 9 and 10 feet tall and weigh between 500 and 750 pounds. Your size is **Large**.
 
-::: {.sub-heading}
+::: sub-heading
 Speed
 :::
+
 Your base walking speed is 30 feet.
 
-::: {.sub-heading}
+::: sub-heading
 Firbolg Magic
 :::
+
 You can cast detect magic and disguise self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 4 feet shorter than normal, falling under the effects of the "reduce" option of enlarge/reduce for the duration, allowing you to more easily blend in with humans and elves.
 
-::: {.sub-heading}
+::: sub-heading
 Rock thrower
 :::
+
 You are proficient in using small objects and creatures as thrown projectile weapons. You may treat any sufficiently robust Small object or creature you are holding as an improvised thrown weapon you are proficient in, with a range of 20/60, and dealing 1d8 + Strength damage to the target (and object if appropriate).
 
-If you have a hand free you may attempt to catch such an object being hurled or fired at you. When you are hit by a ranged attack whose projectile is an object or creature, as a reaction you may reduce the damage dealt by that projectile by 1d12 plus your Strength modifier. If this damage is reduced to zero and the object is Small, you catch the object and may throw it back as part of the reaction. you can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+If you have a hand free you may attempt to catch such an object being hurled or fired at you. When you are hit by a ranged attack whose projectile is a small object or creature, as a reaction you may reduce the damage dealt by that projectile by 1d12 plus your Strength modifier. If this damage is reduced to zero, you catch the object and may throw it back as part of the reaction. you can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
-## Goliaths - Half-Giants
+## Goliath
 
-## Half Ogres
+::: sub-heading
+Creature Type
+:::
+
+You are considered both a Humanoid and a Giant
+
+::: sub-heading
+Age
+:::
+
+Goliaths have lifespans comparable to humans. They enter adulthood in their late teens and usually live less than a century.
+
+::: sub-heading
+Size
+:::
+
+Goliath range from 7 to 10 feet tall and weigh between 300 and 650 pounds. Your size can be **Medium** or **Large**.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 35 feet.
+
+::: sub-heading
+Giant Ancestry
+:::
+
+You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest:
+
+**Cloud’s Jaunt (Cloud Giant).** As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
+
+**Fire’s Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
+
+**Frost’s Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
+
+**Hill’s Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.
+
+**Stone’s Endurance (Stone Giant).** When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
+
+**Storm’s Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.
+
+::: sub-heading
+Goliath Size
+:::
+
+Goliaths sit on the border between medium and large races, which they fall into is entirely dependant on the individual. Depending on the size you choose when creating this character, you gain the following traits:
+
+**Lithe Half-Giant.** If you are a **Medium** Goliath, you have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity. You use the rules for large creatures when it comes to the weapons you can wield. Your maximum height is 8ft tall and you require double the food of a medium humanoid.
+
+**Towering Half-Giant.** If you are a **Large** Goliath, you gain all the [traits granted to Large characters](#large-races) including ability score modifiers, armor and weapon tables. Your maximum height is 10ft tall.
+
+## Half Ogre
+
+(Large, gluttonous)
 
 ## Leonine
 
-## Lizardfolk, 
+(Powerful Build always)
+
+## Lizardfolk
+
+(All sizes, incl. Powerful Build and Large)
 
 ## Loxodon
 
-## Minotaurs
+(Large only)
+
+## Minotaur
+
+(Large Size - Horn rush)
 
 ## Orcs - Orogs - Ogrillons
 
+(3x subraces, regular, Powerful Build & Large)
 
+## Thri-Kreen
 
+(Large - 4 arms with powerful build)
 
+## Tortles
 
-
-
-
-
-
-
-
-
-Tortles
-
-
-
-
+(Optional Large Variant)
 
 Tree people
 
-Large Earth Genasi
-
 Jardvegar (Tree Dwarf, Fjord Dwarf)
-
-Thri-Kreen
 
 Phoenix Aasimar / Thunderbird Aasimar
 
 Simic Hybrid (Mutagenic)
-
-
