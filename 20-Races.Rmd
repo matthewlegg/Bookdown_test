@@ -32,19 +32,19 @@ Unless otherwise specified, large creatures always have the following trait:
 (Apex Predator, Thick Hide, Wild Heart)
 
 ## Bugbears
-(As Mordenkainen's but with new powerful Build)
+(As Mordenkainen's but with new powerful Build and clarification on reach)
 
 ## Centaurs
 (large size, charge attack, can't climb things)
 
 ## Dragonborn (big)
-(Same as book with powerful build variant)
+(A mix of 5e 2024 and Fizban's Treasury of Dragons, with a powerful build variant)
 
 ## Firbolgs
 
 ::: {.sub-heading}
 Age
-:::
+::: 
 As giant humanoids originating in the feywild, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
 
 ::: {.sub-heading}
@@ -105,7 +105,7 @@ Tree people
 
 Large Earth Genasi
 
-Jardvegar (Tree Dwarf, Fjord Dwarf, Baugspidr Dwarf)
+Jardvegar (Tree Dwarf, Fjord Dwarf)
 
 Thri-Kreen
 
