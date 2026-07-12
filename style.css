@@ -70,3 +70,8 @@ pre code {
   font-style: italic;
   color: #828282;
 }
+
+.sub-heading{
+  font-size: 20px;
+  font-weight: bold;
+}

@@ -1,0 +1,116 @@
+# Races
+
+## Existing D&D Races allowed
+
+Plasmoid
+
+Heliana's Races
+
+Grim Hollow Races
+
+Regular D&D: Human, Halfling, Elf, Aasimar, Tiefling, Dragonborn, Gnome, Dwarf, Genasi(4x from Mordenkainen's), Goblin, Hobgoblin, Kenku, Kobold, Tabaxi, Triton, Gith, Tortle, Dhampir, Hexblood, Reborn, Changeling, Duergar, Eladrin, Harengon, Shadar Kai, [Eberron: Forge of the Artificer races]
+
+## Notes on Large Races
+
+::: {.sub-heading}
+Large Creature Traits
+:::
+Unless otherwise specified, large creatures always have the following trait: 
+
+**Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. Your default maximum strength score is 22, and your maximum Dexterity score is 18.
+
+
+**Carrying Capacity.** Your carrying Capacity is your Strength score multiplied by 30. This is the weight (in pounds) that you can carry. You can push, drag, or lift a weight in pounds up to twice your carrying Capacity (or 60 times your Strength score). While pushing or dragging weight in excess of your carrying Capacity, your speed drops to 5 feet.
+
+**Armor.** Due to your large size, normal armor built for a humanoid will not fit you. You can get specially made armour to fit your large build, although it weighs double and costs 4 times as much as the listed value. Enchanted armor which is considered rare or higher will magically scale to fit your size, as will any rings or bands etc.
+
+**Weapons.** Due to your large size, typical light weapons are virtually unusable to you, regular weapons designed for medium creatures are much lighter for you, and you are capable of wielding weapons larger still. See the weapons table chapter for more info. Enchanted weapons which are rare or higher will magically scale to their large size equivalents (This will be detailed in the weapon stats).
+
+**Food.** Due to your immense height and weight, you require 4x the amount of food of a medium humanoid.
+
+## Bearfolk 
+(Apex Predator, Thick Hide, Wild Heart)
+
+## Bugbears
+(As Mordenkainen's but with new powerful Build)
+
+## Centaurs
+(large size, charge attack, can't climb things)
+
+## Dragonborn (big)
+(Same as book with powerful build variant)
+
+## Firbolgs
+
+::: {.sub-heading}
+Age
+:::
+As giant humanoids originating in the feywild, firbolg have long lifespans. A firbolg reaches adulthood around 30, and the oldest of them can live for 500 years.
+
+::: {.sub-heading}
+Size
+:::
+Firbolg are between 9 and 10 feet tall and weigh between 500 and 750 pounds. Your size is **Large**.
+
+::: {.sub-heading}
+Speed
+:::
+Your base walking speed is 30 feet.
+
+::: {.sub-heading}
+Firbolg Magic
+:::
+You can cast detect magic and disguise self with this trait, using Wisdom as your spellcasting ability for them. Once you cast either spell, you can’t cast it again with this trait until you finish a short or long rest. When you use this version of disguise self, you can seem up to 4 feet shorter than normal, falling under the effects of the "reduce" option of enlarge/reduce for the duration, allowing you to more easily blend in with humans and elves.
+
+::: {.sub-heading}
+Rock thrower
+:::
+You are proficient in using small objects and creatures as thrown projectile weapons. You may treat any sufficiently robust Small object or creature you are holding as an improvised thrown weapon you are proficient in, with a range of 20/60, and dealing 1d8 + Strength damage to the target (and object if appropriate).
+
+If you have a hand free you may attempt to catch such an object being hurled or fired at you. When you are hit by a ranged attack whose projectile is an object or creature, as a reaction you may reduce the damage dealt by that projectile by 1d12 plus your Strength modifier. If this damage is reduced to zero and the object is Small, you catch the object and may throw it back as part of the reaction. you can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+## Goliaths - Half-Giants
+
+## Half Ogres
+
+## Leonine
+
+## Lizardfolk, 
+
+## Loxodon
+
+## Minotaurs
+
+## Orcs - Orogs - Ogrillons
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tortles
+
+
+
+
+
+Tree people
+
+Large Earth Genasi
+
+Jardvegar (Tree Dwarf, Fjord Dwarf, Baugspidr Dwarf)
+
+Thri-Kreen
+
+Phoenix Aasimar / Thunderbird Aasimar
+
+Simic Hybrid (Mutagenic)
+
+
