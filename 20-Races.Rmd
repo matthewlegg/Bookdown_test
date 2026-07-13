@@ -104,6 +104,11 @@ You have proficiency in one of the following skills of your choice: Animal Handl
 
 ## Firbolg
 
+::: {.center-img}
+![Firbolgs](_images/Firbolgs.jpg){width=100%}
+:::
+\
+
 ::: sub-heading
 Creature Type
 :::
@@ -302,6 +307,11 @@ Powerful Build
 You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
 ## Lizardfolk
+
+::: {.center-img}
+![Lizards](_images/Lizards.jpg){width=100%}
+:::
+\
 
 ::: sub-heading
 Creature Type
