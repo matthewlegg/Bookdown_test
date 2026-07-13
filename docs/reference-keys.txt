@@ -74,14 +74,14 @@ races-species
 existing-dd-races-species-allowed
 large-races
 bearfolk
-bugbears
-centaurs
+bugbear
+centaur
 dragonborn-big
 earth-genasi
 firbolg
 goliath
 half-ogre
-leonine
+leonin
 lizardfolk
 loxodon
 minotaur
