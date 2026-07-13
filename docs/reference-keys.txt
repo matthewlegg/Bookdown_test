@@ -77,6 +77,7 @@ bearfolk
 bugbear
 centaur
 dragonborn-big
+dreamspeaker
 earth-genasi
 firbolg
 goliath
@@ -86,6 +87,7 @@ lizardfolk
 loxodon
 minotaur
 orcs---orogs---ogrillons
+samsaran
 thri-kreen
 tortles
 bookdown-tutorial

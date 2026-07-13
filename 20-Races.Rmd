@@ -8,7 +8,7 @@ Heliana's Races
 
 Grim Hollow Races
 
-Regular D&D: Human, Halfling, Elf, Aasimar, Tiefling, Dragonborn, Gnome, Dwarf, Genasi(4x from Mordenkainen's), Goblin, Hobgoblin, Kenku, Kobold, Tabaxi, Triton, Gith, Tortle, Dhampir, Hexblood, Reborn, Changeling, Duergar, Eladrin, Harengon, Shadar Kai, [Eberron: Forge of the Artificer races]
+Regular D&D: Human, Halfling, Elf, Aasimar, Tiefling, Gnome, Dwarf, Genasi(4x from Mordenkainen's), Goblin, Hobgoblin, Kenku, Kobold, Tabaxi, Triton, Gith, Tortle, Dhampir, Hexblood, Reborn, Changeling, Duergar, Eladrin, Harengon, Shadar Kai, [Eberron: Forge of the Artificer races]
 
 ## Notes on Large Characters {#large-races}
 
@@ -95,6 +95,9 @@ You have proficiency in one of the following skills of your choice: Animal Handl
 
 (A mix of 5e 2024 and Fizban's Treasury of Dragons, with a powerful build variant)
 
+## Dreamspeaker
+(As in 5e 2014)
+
 ## Earth Genasi
 
 (Gain Powerful build or large option)
@@ -140,6 +143,11 @@ You are proficient in using small objects and creatures as thrown projectile wea
 If you have a hand free you may attempt to catch such an object being hurled or fired at you. When you are hit by a ranged attack whose projectile is a small object or creature, as a reaction you may reduce the damage dealt by that projectile by 1d12 plus your Strength modifier. If this damage is reduced to zero, you catch the object and may throw it back as part of the reaction. you can do this a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Goliath
+
+::: {.center-img}
+![Different Flavours of Goliaths](_images/Goliaths.jpg){width=100%}
+:::
+\
 
 ::: sub-heading
 Creature Type
@@ -305,7 +313,7 @@ You are considered a Humanoid.
 Age
 :::
 
-Lizardfolk reach maturity at around 14 and age slightly slower than humans, reaching up to 120.
+Lizardfolk mature and age at about the same rate as humans. Unlike most creatures, Lizardfolk do not stop growing once they reach maturity, so long as they are kept well-fed.
 
 ::: sub-heading
 Size
@@ -413,6 +421,8 @@ You always know which direction is north, and you have advantage on any Wisdom (
 
 (3x subraces, regular, Powerful Build & Large)
 
+## Samsaran
+
 ## Thri-Kreen
 
 (Large - 4 arms with powerful build)
@@ -429,6 +439,6 @@ Phoenix Aasimar / Thunderbird Aasimar
 
 Simic Hybrid (Mutagenic)
 
-Samsaran
 
-Dreamspeaker / Dreamer / Kalashtar
+
+
