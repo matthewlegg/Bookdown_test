@@ -17,3 +17,14 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 
 });
+
+document.addEventListener("DOMContentLoaded", function() {
+
+  document.querySelectorAll("main a[href^='http']").forEach(function(link) {
+
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+
+  });
+
+});

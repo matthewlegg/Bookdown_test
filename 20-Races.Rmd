@@ -494,7 +494,7 @@ When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 
 Orcish Lineage
 :::
 
-You may choose the size of lizardfolk you are playing as. Note, typically the larger a lizardfolk is, the older they are. Choose from one of the options below:
+You may choose to come from one of the following orc lineages, presented in order of how commonly they are encountered:
 
 **Orc**: The common orc, known as noble warriors, skilled smiths and deadly hunters. Your size is Medium. You gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, History, Stealth, or Survival. You also gain proficiency in one artisan's tool of your choice.
 
