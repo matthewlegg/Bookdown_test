@@ -208,6 +208,11 @@ Goliaths sit on the border between medium and large races, which they fall into 
 
 ## Half Ogre
 
+::: {.center-img}
+![Wide Bois](_images/Ogres.jpg){width=100%}
+:::
+\
+
 ::: sub-heading
 Creature Type
 :::
@@ -427,9 +432,68 @@ Labyrinthine Recall
 
 You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
 
-## Orcs - Orogs - Ogrillons
+## Orcs
 
-(3x subraces, regular, Powerful Build & Large)
+::: {.center-img}
+![Toughest motherfuckers](_images/Orcs.jpg){width=100%}
+:::
+\
+
+::: sub-heading
+Creature Type
+:::
+
+You are considered a Humanoid.
+
+::: sub-heading
+Age
+:::
+
+Orcs mature and age at about the same rate as humans.
+
+::: sub-heading
+Size
+:::
+
+The average Orc is around 6-7ft tall. Orogs range from 7-8ft and Ogrillons reach up to 9 and a half feet on average.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Darkvision
+:::
+
+You have Darkvision with a range of 60 feet.
+
+::: sub-heading
+Adrenaline Rush
+:::
+
+You can take the Dash action as a Bonus Action. When you do so, you gain a number of Temporary Hit Points equal to your Proficiency Bonus.
+
+You can use this trait a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Short or Long Rest.
+
+::: sub-heading
+Relentless Endurance
+:::
+
+When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest.
+
+::: sub-heading
+Orcish Lineage
+:::
+
+You may choose the size of lizardfolk you are playing as. Note, typically the larger a lizardfolk is, the older they are. Choose from one of the options below:
+
+**Orc**: The common orc, known as noble warriors, skilled smiths and deadly hunters. Your size is Medium. You gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, History, Stealth, or Survival. You also gain proficiency in one artisan's tool of your choice.
+
+**Orog**: The Orog, a hardy, bulky caste of orcs native to the underdark. Your size is Medium. You gain the Powerful Build feature, granting you Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+
+**Ogrillon**: The ogrillon, known amongst orc tribes as the Varg ("prince" in common), are a hybrid race of orc and ogre descent, incredibly rare and equally feared on the battlefield. If playing as an Ogrillon, your size is Large and your creature type counts as Giant in addition to Humanoid.
 
 ## Samsaran
 

@@ -7,8 +7,11 @@ document.addEventListener("DOMContentLoaded", function() {
     link.href = img.src;
     link.setAttribute("data-lightbox", "book-images");
 
-    img.parentNode.insertBefore(link, img);
+    if (img.alt) {
+      link.setAttribute("data-title", img.alt);
+    }
 
+    img.parentNode.insertBefore(link, img);
     link.appendChild(img);
 
   });

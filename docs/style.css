@@ -77,3 +77,11 @@ pre code {
   line-height: 0px;
   margin-top: 30px;
 }
+
+.lb-data .lb-caption {
+  text-align: center;
+  display: block;
+  width: 100%;
+  font-size: 1.5rem;
+  font-style: italic;
+}

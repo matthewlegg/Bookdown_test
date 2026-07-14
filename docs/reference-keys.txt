@@ -86,7 +86,7 @@ leonin
 lizardfolk
 loxodon
 minotaur
-orcs---orogs---ogrillons
+orcs
 samsaran
 thri-kreen
 tortles
