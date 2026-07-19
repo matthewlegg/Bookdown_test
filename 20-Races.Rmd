@@ -107,7 +107,59 @@ You have proficiency in one of the following skills of your choice: Animal Handl
 
 ## Earth Genasi
 
-(Gain Powerful build or large option)
+::: sub-heading
+Creature Type
+:::
+
+You are considered both a Humanoid and Elemental.
+
+::: sub-heading
+Age
+:::
+
+Earth Genasi mature and age at about the same rate as humans.
+
+::: sub-heading
+Size
+:::
+
+Earth Genasi are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium. Earth Genasi are considerably denser than most humanoids, with weights typically ranging from 200 to 300 pounds.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Earth Walk
+:::
+
+You can move across difficult terrain without expending extra movement if you are using your walking speed on the ground or a floor.
+
+::: sub-heading
+Merge With Stone
+:::
+
+You know the blade ward cantrip.
+
+Starting at 3rd level, you can cast the earth tremor spell with this trait, without requiring a spell slot. Once you cast the spell with this trait, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 1st level or higher.
+
+Starting at 5th level, you can cast the enlarge / reduce spell with this trait, without requiring a material component or a spell slot. When casting the spell using this trait, you can only target yourself, and the duration is extended to up to one hour. Once you cast that spell with this trait, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+
+::: sub-heading
+Tremorsense
+:::
+
+You gain Tremorsense with a range of 60 feet. You must be touching a stone or earthen surface to use this Tremorsense. The stone or earth can be natural or worked.
+
+::: sub-heading
+Powerful Build
+:::
+
+You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
 ## Firbolg
 
