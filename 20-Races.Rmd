@@ -18,7 +18,7 @@ Large Character Traits
 
 Unless otherwise specified, large player characters always gain the following traits:
 
-**Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. Your default maximum strength score is 22, and your maximum Dexterity score is 18.
+**Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. When creating your character, in addition to other ability score modifiers you gain +2 strength lose -2 dexterity. Your default maximum strength score is 22, and your maximum Dexterity score is 18.
 
 **Carrying Capacity.** Your carrying Capacity is your Strength score multiplied by 30. This is the weight (in pounds) that you can carry. You can push, drag, or lift a weight in pounds up to twice your carrying Capacity (or 60 times your Strength score). While pushing or dragging weight in excess of your carrying Capacity, your speed drops to 5 feet.
 
