@@ -18,7 +18,7 @@ Large Character Traits
 
 Unless otherwise specified, large player characters always gain the following traits:
 
-**Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. When creating your character, in addition to other ability score modifiers you gain +2 strength lose -2 dexterity. Your default maximum strength score is 22, and your maximum Dexterity score is 18.
+**Ability Scores.** As a Large creature, you are innately much stronger but slower than your medium comrades. When creating your character, in addition to other ability score modifiers you increase your base strength score by 2, and decrease your base dexterity score by 2. As a large character, your default maximum strength score is 22, and your maximum Dexterity score is 18.
 
 **Carrying Capacity.** Your carrying Capacity is your Strength score multiplied by 30. This is the weight (in pounds) that you can carry. You can push, drag, or lift a weight in pounds up to twice your carrying Capacity (or 60 times your Strength score). While pushing or dragging weight in excess of your carrying Capacity, your speed drops to 5 feet.
 
@@ -107,6 +107,11 @@ You have proficiency in one of the following skills of your choice: Animal Handl
 
 ## Earth Genasi
 
+::: {.center-img}
+![These guys rock!](_images/EarthGenasi.jpg){width=100%}
+:::
+\
+
 ::: sub-heading
 Creature Type
 :::
@@ -145,7 +150,7 @@ You know the blade ward cantrip.
 
 Starting at 3rd level, you can cast the earth tremor spell with this trait, without requiring a spell slot. Once you cast the spell with this trait, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 1st level or higher.
 
-Starting at 5th level, you can cast the enlarge / reduce spell with this trait, without requiring a material component or a spell slot. When casting the spell using this trait, you can only target yourself, and the duration is extended to up to one hour. Once you cast that spell with this trait, you can’t do so again until you finish a long rest. You can also cast it using any spell slots you have of 2nd level or higher.
+Starting at 5th level, you can cast the meld into stone spell with this trait, without requiring a spell slot. Once you cast that spell with this trait, you can’t do so again until you finish a long rest, except as a ritual. You can also cast it using any spell slots you have of 3rd level or higher.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
 
@@ -315,6 +320,11 @@ Gluttonous Hunger
 You can eat almost anything and gain advantage on constitution checks and saves against any harmful effects of ingested substances. You can spend 1 minute eating a large meal, or part of a small or larger creature. When you do this you may spend hit die to heal as if you had taken a short rest. You can spend up to your proficiency bonus in hit die this way, either in one sitting or across multiple meals. The number of hit die you can spend in this way resets after a long rest. 
 
 ## Leonin
+
+::: {.center-img}
+![Something funny about big cats / housecat](_images/Leonin.jpg){width=100%}
+:::
+\
 
 ::: sub-heading
 Creature Type
