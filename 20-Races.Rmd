@@ -578,6 +578,12 @@ You can throw yourself into a feeding frenzy. As a bonus action, you can make a 
 
 ## Loxodon
 
+::: center-img
+![Hannibal's Finest](_images/Loxodon.jpg){width="100%"}
+:::
+
+\
+
 ::: sub-heading
 Creature Type
 :::
@@ -627,6 +633,12 @@ Elephant's memory
 You have gained significant experience across a long life and possess an exceptional memory. When making an intelligence check, you may recall a piece lore you may have previously read or encountered, adding 1d6 to the roll. You can do this a number of times equal to your proficiency bonus and regain all uses after a long rest.
 
 ## Minotaur
+
+::: center-img
+![The Minotaur's escaped, and you're gonna get the horns buddy!](_images/Minotaur.jpg){width="100%"}
+:::
+
+\
 
 ::: sub-heading
 Creature Type
