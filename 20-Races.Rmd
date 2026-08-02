@@ -170,7 +170,63 @@ You have proficiency in one of the following skills of your choice: Animal Handl
 
 ## Dreamspeaker
 
-(As in 5e 2014)
+::: center-img
+![One bad hair day away from becoming a Night Hag](_images/Dreamspeaker.jpg){width="100%"}
+:::
+
+\
+
+::: sub-heading
+Creature Type
+:::
+
+Your creature type is Humanoid.
+
+::: sub-heading
+Age
+:::
+
+Dreamspeakers are largely biologically identical to another humanoid race (human, elf, dwarf, or halfling) and mature and age at the same rate.
+
+::: sub-heading
+Size
+:::
+
+Your size is Small or Medium.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Dual Mind
+:::
+
+You have advantage on all Wisdom saving throws.
+
+::: sub-heading
+Mental Discipline
+:::
+
+You have resistance to psychic damage.
+
+::: sub-heading
+Mind Link
+:::
+
+You can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don’t need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+When you’re using this trait to speak telepathically to a creature, you can use your action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait’s range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.
+
+::: sub-heading
+Dream Walker
+:::
+
+Dreamspeakers possess a near perfect control of their conscious and subconscious mind, allowing them to retain full lucidity when unconscious, and even to enter the minds of other willing creatures. When sleeping, dreamspeakers may always choose to lucid dream, and may enter other willing creature's dreams so long as that creature is within the range of their telepathy. Dreamspeakers are also immune to spells that would put them to sleep against their will.
+
+If a dreamspeaker is a spellcaster, they automatically have the following spells prepared in addition to those granted by their class: Detect Thoughts, Modify Memory, Dream.
 
 ## Earth Genasi
 
