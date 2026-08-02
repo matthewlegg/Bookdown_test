@@ -32,7 +32,73 @@ Unless otherwise specified, large player characters always gain the following tr
 
 ## Bearfolk
 
-(Apex Predator, Thick Hide, Wild Heart)
+::: center-img
+![Something funny about Teddy Bears](_images/Bearfolk.jpg){width="100%"}
+:::
+
+\
+
+::: sub-heading
+Creature Type
+:::
+
+You are considered both a Humanoid and a Fey.
+
+::: sub-heading
+Age
+:::
+
+Bearfolk mature and age at about the same rate as humans.
+
+::: sub-heading
+Size
+:::
+
+Bearfolk vary in size depending on their subrace, with heights ranging between 5 and over 8 feet tall, and sizes from medium to large.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Claws
+:::
+
+Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+
+You also gain a climb speed equal to your move speed.
+
+::: sub-heading
+Powerful Build
+:::
+
+You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+
+::: sub-heading
+Thick Hide
+:::
+
+You are covered in a layer of thick, insulating fur, sheltering you from the harsh conditions of the outdoors. You have a base armor class of 12 + your dexterity bonus when unarmored, and are immune to the environmental effects of extreme cold.
+
+::: sub-heading
+Wild at Heart
+:::
+
+You are naturally adept at surviving in the wilds, granting you proficiency in the survival and perception skills.
+
+::: sub-heading
+Ursine Origin (variant races)
+:::
+
+Though originating in the feywild, the Bearfolk still share a connection with their wild counterparts. You may choose from the following alternative ursine ancestries. Features here replace the ones listed above where noted.
+
+**Cave Bear**: The most common Bearfolk race.
+
+**Polar Bear**: Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain a swimming speed equal to your walking speed (*replaces climb speed*). You gain resistance to cold damage.
+
+**Owlbear**: Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain darkvision up to 60ft, allowing you to see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. Due to the tough spines of their feathered hides and pseudo-winged arms, Owlbear Bearfolk cannot wear heavy armor.
 
 ## Bugbear
 
@@ -40,11 +106,12 @@ Unless otherwise specified, large player characters always gain the following tr
 
 ## Centaur
 
-::: {.center-img}
-![She told me, "Babe, you gotta hide" I told her, "Where? I'm half a horse!" Her dad opens the door, and says "Is that a half-horse, half-man?"](_images/Centaurs.jpg){width=100%}
+::: center-img
+![She told me, "Babe, you gotta hide" I told her, "Where? I'm half a horse!" Her dad opens the door, and says "Is that a half-horse, half-man?"](_images/Centaurs.jpg){width="100%"}
 :::
-::: {.center-img}
-[> Click if you don't get the reference <](https://www.youtube.com/watch?v=6v_R180kIGs)
+
+::: center-img
+[\> Click if you don't get the reference \<](https://www.youtube.com/watch?v=6v_R180kIGs)
 :::
 
 ::: sub-heading
@@ -97,19 +164,20 @@ Survivor
 
 You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.
 
-
 ## Dragonborn (big)
 
 (A mix of 5e 2024 and Fizban's Treasury of Dragons, with a powerful build variant)
 
 ## Dreamspeaker
+
 (As in 5e 2014)
 
 ## Earth Genasi
 
-::: {.center-img}
-![These guys rock!](_images/EarthGenasi.jpg){width=100%}
+::: center-img
+![These guys rock!](_images/EarthGenasi.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -168,9 +236,10 @@ You have Advantage on any ability check you make to end the Grappled condition. 
 
 ## Firbolg
 
-::: {.center-img}
-![Irish descent, ten feet tall, excellent throwing arm, these guys should play for the Boston Celtics](_images/Firbolgs.jpg){width=100%}
+::: center-img
+![Irish descent, ten feet tall, excellent throwing arm, these guys should play for the Boston Celtics](_images/Firbolgs.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -213,9 +282,10 @@ If you have a hand free you may attempt to catch such an object being hurled or 
 
 ## Goliath
 
-::: {.center-img}
-![They're giants but less giant than giant giants](_images/Goliaths.jpg){width=100%}
+::: center-img
+![They're giants but less giant than giant giants](_images/Goliaths.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -272,9 +342,10 @@ Goliaths sit on the border between medium and large races, which they fall into 
 
 ## Half Ogre
 
-::: {.center-img}
-![The absolute widest of bois](_images/Ogres.jpg){width=100%}
+::: center-img
+![The absolute widest of bois](_images/Ogres.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -317,13 +388,14 @@ Due to your imposing stature and requirement to fend for yourself, you are natur
 Gluttonous Hunger
 :::
 
-You can eat almost anything and gain advantage on constitution checks and saves against any harmful effects of ingested substances. You can spend 1 minute eating a large meal, or part of a small or larger creature. When you do this you may spend hit die to heal as if you had taken a short rest. You can spend up to your proficiency bonus in hit die this way, either in one sitting or across multiple meals. The number of hit die you can spend in this way resets after a long rest. 
+You can eat almost anything and gain advantage on constitution checks and saves against any harmful effects of ingested substances. You can spend 1 minute eating a large meal, or part of a small or larger creature. When you do this you may spend hit die to heal as if you had taken a short rest. You can spend up to your proficiency bonus in hit die this way, either in one sitting or across multiple meals. The number of hit die you can spend in this way resets after a long rest.
 
 ## Leonin
 
-::: {.center-img}
-![Something funny about big cats / housecat](_images/Leonin.jpg){width=100%}
+::: center-img
+![Something funny about big cats / housecat](_images/Leonin.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -382,9 +454,10 @@ You have Advantage on any ability check you make to end the Grappled condition. 
 
 ## Lizardfolk
 
-::: {.center-img}
-![Lizard...    Lizard...   Lizard... Lizard... ](_images/Lizards.jpg){width=100%}
+::: center-img
+![Lizard... Lizard... Lizard... Lizard...](_images/Lizards.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -495,9 +568,8 @@ Thanks to your sensitive trunk, you have advantage on Wisdom (Perception), Wisdo
 Elephant's memory
 :::
 
-You have a long life and an exceptional memory. You can recall any lore you may have previously read or encountered, adding 1d6 to any intelligence check you make. You can do this a number of times equal to your proficiency bonus.
+You have gained significant experience across a long life and possess an exceptional memory. When making an intelligence check, you may recall a piece lore you may have previously read or encountered, adding 1d6 to the roll. You can do this a number of times equal to your proficiency bonus and regain all uses after a long rest.
 
-You
 ## Minotaur
 
 ::: sub-heading
@@ -550,9 +622,10 @@ You always know which direction is north, and you have advantage on any Wisdom (
 
 ## Orcs
 
-::: {.center-img}
-![Toughest motherfuckers I've ever seen](_images/Orcs.jpg){width=100%}
+::: center-img
+![Toughest motherfuckers I've ever seen](_images/Orcs.jpg){width="100%"}
 :::
+
 \
 
 ::: sub-heading
@@ -628,7 +701,3 @@ Jardvegar (Tree Dwarf, Fjord Dwarf)
 Phoenix Aasimar / Thunderbird Aasimar
 
 Simic Hybrid (Mutagenic)
-
-
-
-

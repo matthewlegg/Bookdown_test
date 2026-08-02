@@ -85,6 +85,7 @@ half-ogre
 leonin
 lizardfolk
 loxodon
+minotaur
 orcs
 samsaran
 thri-kreen
