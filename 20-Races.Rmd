@@ -102,7 +102,71 @@ Though originating in the feywild, the Bearfolk still share a connection with th
 
 ## Bugbear
 
-(As Mordenkainen's but with new powerful Build, option for large, and clarification on reach not affecting polearms)
+::: center-img
+![Basically what happens when goblins overdose on testosterone ](_images/Bugbear.jpg){width="100%"}
+:::
+
+\
+
+::: sub-heading
+Creature Type
+:::
+
+You are a Humanoid. You are also considered a goblinoid for any prerequisite or effect that requires you to be a goblinoid.
+
+::: sub-heading
+Age
+:::
+
+Bugbears mature and age at about the same rate as humans.
+
+::: sub-heading
+Size
+:::
+
+Your size is Medium. A typical Bugbear stands at just over 7ft tall.
+
+::: sub-heading
+Speed
+:::
+
+Your walking speed is 30 feet.
+
+::: sub-heading
+Darkvision
+:::
+
+You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You discern colors in that darkness only as shades of gray.
+
+::: sub-heading
+Fey Ancestry
+:::
+
+You have Advantage on saving throws you make to avoid or end the Charmed condition.
+
+::: sub-heading
+Long-Limbed
+:::
+
+When you make a melee attack on your turn with a non-reach weapon, your reach for it is 5 feet greater than normal.
+
+::: sub-heading
+Powerful Build
+:::
+
+You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+
+::: sub-heading
+Sneaky
+:::
+
+You are proficient in the Stealth skill. In addition, without squeezing, you can move through and stop in a space large enough for a Small creature.
+
+::: sub-heading
+Surprise Attack
+:::
+
+If you hit a creature with an attack roll, the creature takes an extra 2d6 damage if it hasn’t taken a turn yet in the current combat.
 
 ## Centaur
 
@@ -806,7 +870,11 @@ When you fail a death saving throw, you may choose to reroll the save. If you do
 Samsaran Magic
 :::
 
-You know the spare the dying cantrip. When you reach 3rd level, you can cast comprehend languages once with this trait without expending a spell slot or material components, and regain the ability to do so when you finish a long rest. If you possess 5th level spell slots, you are able to expend a spell slot to cast reincarnate regardless of if it is on your classes spell list, or whether you are able to learn spells at that level. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
+You know the spare the dying cantrip. When you reach 3rd level, you can cast comprehend languages once with this trait without expending a spell slot or material components, and regain the ability to do so when you finish a long rest. You can also cast the spell using any spell slots you have of the appropriate level. 
+
+If you possess 5th level spell slots, you are able to expend a spell slot to cast reincarnate regardless of if it is on your classes spell list, or whether you are able to learn spells at that level. 
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
 ::: sub-heading
 Shards of the Past
