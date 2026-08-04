@@ -70,13 +70,14 @@ instruments-artifacts
 favored-weapons
 list-of-gods
 list-of-patrons
+planes
 races-species
 existing-dd-races-species-allowed
 large-races
 bearfolk
 bugbear
 centaur
-dragonborn-big
+dragonborn
 dreamspeaker
 earth-genasi
 firbolg

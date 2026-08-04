@@ -71,6 +71,11 @@ pre code {
   padding: 1rem;
 }
 
+.grey-annotation {
+  font-style: italic;
+  color: grey;
+}
+
 .center-img {
   text-align: center;
   font-style: italic;

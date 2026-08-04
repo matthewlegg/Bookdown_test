@@ -103,7 +103,7 @@ Though originating in the feywild, the Bearfolk still share a connection with th
 ## Bugbear
 
 ::: center-img
-![Basically what happens when goblins overdose on testosterone ](_images/Bugbear.jpg){width="100%"}
+![Basically what happens when goblins overdose on testosterone](_images/Bugbear.jpg){width="100%"}
 :::
 
 \
@@ -228,9 +228,88 @@ Survivor
 
 You have proficiency in one of the following skills of your choice: Animal Handling, Medicine, Nature, or Survival.
 
-## Dragonborn (big)
+## Dragonborn
 
-(A mix of 5e 2024 and Fizban's Treasury of Dragons, with a powerful build variant)
+::: center-img
+![The colourful scaly ones, not the Alduin-slaying variant](_images/Dragonborn.jpg){width="100%"}
+:::
+
+\
+
+::: sub-heading
+Creature Type
+:::
+
+You are considered both Humanoid and Dragon
+
+::: sub-heading
+Age
+:::
+
+Dragonborn mature and age at about the same rate as humans.
+
+::: sub-heading
+Size
+:::
+
+Dragonborn are usually between 5 to 7 feet tall. Your size is Medium.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Draconic Ancestry
+:::
+
+Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
+
+```{r, layout="l-body-outset", echo=FALSE}
+Dragonborn <- read.csv("_data/Dragonborn.csv", fileEncoding = "Windows-1252")
+kable(Dragonborn)
+```
+
+::: sub-heading
+Breath Weapon
+:::
+
+When you take the Attack action on your turn, you can replace one of your attacks with an exhalation of magical energy in either a 15-foot Cone or a 30-foot Line that is 5 feet wide (choose the shape each time). Each creature in that area must make a Dexterity saving throw (DC 8 plus your Constitution modifier and Proficiency Bonus). On a failed save, a creature takes 1d10 damage of the type determined by your Draconic Ancestry trait. On a successful save, a creature takes half as much damage. This damage increases by 1d10 when you reach character levels 5 (2d10), 11 (3d10), and 17 (4d10).
+
+You can use this Breath Weapon a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+::: sub-heading
+Damage Resistance
+:::
+
+You have Resistance to the damage type determined by your Draconic Ancestry trait.
+
+::: sub-heading
+Darkvision
+:::
+
+You have Darkvision with a range of 60 feet.
+
+::: sub-heading
+Draconic Adaptations
+:::
+
+You gain two further traits from the following list. Traits available to you will depend on the ancestry chosen in your Draconic Ancestry feature.
+
+**Amphibious.** You can breathe both air and water, and have a swim speed equal to your speed. \
+[(Requires: Black, Green, Bronze, Gold, Dragon Turtle, or Sea Serpent Ancestry)]{.grey-annotation}
+
+**Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest. \
+[(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
+
+**Draconic Sorcery.** You gain the Sorcerous Burst cantrip. The cantrip always deals the damage type of your Breath Weapon and requires verbal components only. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you choose this trait). \
+[(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
+
+**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity. \
+[(Requires: Blue, Red, Bronze, Gold, Silver, Dragon Turtle, Sea Serpent or Shadow Ancestry)]{.grey-annotation}
+
+*\*Note: Some ancestries may only have 2 options available*
 
 ## Dreamspeaker
 
@@ -870,9 +949,9 @@ When you fail a death saving throw, you may choose to reroll the save. If you do
 Samsaran Magic
 :::
 
-You know the spare the dying cantrip. When you reach 3rd level, you can cast comprehend languages once with this trait without expending a spell slot or material components, and regain the ability to do so when you finish a long rest. You can also cast the spell using any spell slots you have of the appropriate level. 
+You know the spare the dying cantrip. When you reach 3rd level, you can cast comprehend languages once with this trait without expending a spell slot or material components, and regain the ability to do so when you finish a long rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
-If you possess 5th level spell slots, you are able to expend a spell slot to cast reincarnate regardless of if it is on your classes spell list, or whether you are able to learn spells at that level. 
+If you possess 5th level spell slots, you are able to expend a spell slot to cast reincarnate regardless of if it is on your classes spell list, or whether you are able to learn spells at that level.
 
 Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage).
 
@@ -899,7 +978,6 @@ Any sufficiently thorough attempt at destroying the body of the samsaran will fo
 
 If a Samsaran's life is cut short by particularly evil or unjust means, the soul may become corrupted with a desire for vengeance, reincarnating as a revenant. In this case, the revenant will only be allowed to return as a samsaran once again if it inhabits the samsaran's original body, this body is not destroyed, and the revenant finishes it's task without succumbing to a great evil in the process.
 :::
-
 
 ## Thri-Kreen
 

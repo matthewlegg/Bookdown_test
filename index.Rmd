@@ -55,5 +55,6 @@ Then an intro covering what this book is and how to use it
 ```{r, echo=FALSE}
 
 library(DT)
+library(knitr)
 
 ```
