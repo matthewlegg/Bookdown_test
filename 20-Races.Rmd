@@ -297,16 +297,16 @@ Draconic Adaptations
 
 You gain two further traits from the following list. Traits available to you will depend on the ancestry chosen in your Draconic Ancestry feature.
 
-**Amphibious.** You can breathe both air and water, and have a swim speed equal to your speed. \
+**Amphibious.** You can breathe both air and water, and have a swim speed equal to your speed.\
 [(Requires: Black, Green, Bronze, Gold, Dragon Turtle, or Sea Serpent Ancestry)]{.grey-annotation}
 
-**Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest. \
+**Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest.\
 [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
-**Draconic Sorcery.** You gain the Sorcerous Burst cantrip. The cantrip always deals the damage type of your Breath Weapon and requires verbal components only. Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you choose this trait). \
+**Breath Weapon Adept.** You gain the Sorcerous Burst cantrip. This version of the cantrip has a range of 60ft, always deals the damage type of your Breath Weapon and requires verbal components only. Constitution is your spellcasting ability for this spell.
 [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
-**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity. \
+**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.\
 [(Requires: Blue, Red, Bronze, Gold, Silver, Dragon Turtle, Sea Serpent or Shadow Ancestry)]{.grey-annotation}
 
 *\*Note: Some ancestries may only have 2 options available*
@@ -370,6 +370,114 @@ Dream Walker
 Dreamspeakers possess a near perfect control of their conscious and subconscious mind, allowing them to retain full lucidity when unconscious, and even to enter the minds of other willing creatures. When sleeping, dreamspeakers may always choose to lucid dream, and may enter other willing creature's dreams so long as that creature is within the range of their telepathy. Dreamspeakers are also immune to spells that would put them to sleep against their will.
 
 If a dreamspeaker is a spellcaster, they automatically have the following spells prepared in addition to those granted by their class: Detect Thoughts, Modify Memory, Dream.
+
+## Dwarf
+
+::: center-img
+![Diggy Diggy Hole](_images/Dwarves.jpg){width="100%"}
+:::
+
+\
+
+::: sub-heading
+Creature Type
+:::
+
+You are a Humanoid.
+
+::: sub-heading
+Age
+:::
+
+Dwarves mature at the same rate as humans, but they’re considered young until they reach the age of 50. On average, they live about 350 years.
+
+::: sub-heading
+Size
+:::
+
+Dwarves stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is 30 feet.
+
+::: sub-heading
+Darkvision
+:::
+
+Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+::: sub-heading
+Dwarven Resilience
+:::
+
+You have Resistance to Poison damage. You also have Advantage on saving throws you make to avoid or end the Poisoned condition.
+
+::: sub-heading
+Dwarven Toughness
+:::
+
+Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level.
+
+::: sub-heading
+Dwarven Lineage
+:::
+
+You come from one of four dwarvern lineages, derived from the type of (typically subterranean) landscape you call home. Choose one of the following:
+
+::: sub-heading
+Fjalldvergar *(Mountain Dwarf):*
+:::
+
+The most commonly encountered of all Dwarves, Fjalldvergar are typically recognizable from the dark hair and pale complexion. These dwarves are found in small numbers all over, but are natives of the rocky halls and mountain passes of the continent.
+
+***Artisanal Heritage.*** You gain proficiency with one artisan’s tools of your choice from the following: smith’s tools, brewer’s supplies, or mason’s tools.
+
+***Stonecunning.*** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching a stone surface to use this Tremorsense. The stone can be natural or worked.
+
+You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
+
+::: sub-heading
+**Duergar *(Deep Dwarf):***
+:::
+
+Otherwise known as "grey dwarves" for their coal coloured skin, Duergar are typically an entirely subterranean race, inhabiting the deepest reaches of the Underdark in large quantities and seldom venturing to the surface.
+
+***Darkness Adaptation.*** The range of your Darkvision is extended to 120ft.
+
+***Duergar Magic.*** Starting at 3rd level, you can cast the enlarge/reduce spell on yourself with this trait, without requiring a material component. Starting at 5th level, you can also cast the invisibility spell on yourself with this trait, without requiring a material component. Once you cast either of these spells with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast these spells using spell slots you have of the appropriate level.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+
+::: sub-heading
+Jarðvergar *(Burrow Dwarf):*
+:::
+
+Nicknamed "Tree Dwarves" and often mistake for large forest gnomes, Jarðvegar are unique among dwarves to regularly walk the hills and forests of the surface world, living humble lives in harmony with nature. Though not inherently fey, the Jarðvegar revere the Archfey King Oberon in much the same manner the elves see their Queen Titania as their kin and forebear, referring to him as the Green Lord, an ancient Dwarvish warrior-druid of oaken skin and broad frame.
+
+***Earthen Crafts.*** You gain proficiency with one set of tools of your choice: carpenter’s tools, herbalism kit, or woodcarver’s tools
+
+***Gifts of the Earth.*** You have a mystical connection to the earth, and can innately cast the druidcraft and mold earth spells. Starting at 3rd level, you can cast the animal messenger spell with this trait, without requiring a material component. Once you cast animal messenger with this trait, you can’t cast that spell with it again until you finish a long rest. You can also cast the spell using any spell slots you have of the appropriate level.
+
+Intelligence, Wisdom, or Charisma is your spellcasting ability for these spells when you cast them with this trait (choose when you select this race).
+
+***Speech of Beast and Leaf.*** Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. You can also be understood by plants and vegetation, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence these creatures.
+
+Jarðvergar love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.
+
+::: sub-heading
+Isdvergar *(Glacier Dwarf):*
+:::
+
+Also commonly known as "Ice Dwarves", the Isdvergar inhabit the frozen tundras and fjord cliffs of the far northern reaches of the continent. They are expert survivalists, known to carve out entire cities inside of drifting glaciers, which once allowed their people to undertake their "great migration" to Albion, after originating in uncharted lands far beyond the known world. When outside of their icy homes Isdvergar are known as renowned sailors, often found navigating the many shipping lanes across Kingdom.
+
+***Arctic Survivalist.*** You are proficient in the survival skill, and have resistance to cold damage. Additionally, you have advantage on any check you make to find or build shelter from the elements.
+
+***Natural Explorer.*** You gain proficiency with one set of tools of your choice: cook’s utensils, leatherworker’s tools, weaver’s tools, or navigator’s tools.
+
+***Surefooted.*** you have advantage on Strength and Dexterity checks made when climbing, and saving throws made to resist being moved or knocked prone against your will.
 
 ## Earth Genasi
 
@@ -831,7 +939,7 @@ Labyrinthine Recall
 
 You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
 
-## Orcs
+## Orc
 
 ::: center-img
 ![Toughest motherfuckers I've ever seen](_images/Orcs.jpg){width="100%"}
@@ -983,14 +1091,10 @@ If a Samsaran's life is cut short by particularly evil or unjust means, the soul
 
 (Large - 4 arms with powerful build)
 
-## Tortles
+## Tortle
 
 (Optional Large Variant)
 
 Tree people
-
-Jardvegar (Tree Dwarf, Fjord Dwarf)
-
-Phoenix Aasimar / Thunderbird Aasimar
 
 Simic Hybrid (Mutagenic)

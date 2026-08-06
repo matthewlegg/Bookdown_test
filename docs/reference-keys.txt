@@ -79,6 +79,7 @@ bugbear
 centaur
 dragonborn
 dreamspeaker
+dwarf
 earth-genasi
 firbolg
 goliath
@@ -87,10 +88,10 @@ leonin
 lizardfolk
 loxodon
 minotaur
-orcs
+orc
 samsaran
 thri-kreen
-tortles
+tortle
 bookdown-tutorial
 usage
 render-book
