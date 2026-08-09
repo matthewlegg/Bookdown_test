@@ -88,10 +88,11 @@ leonin
 lizardfolk
 loxodon
 minotaur
+mycelian
 orc
 samsaran
-thri-kreen
-tortle
+tree-people
+simic-hybrid-mutagenic
 bookdown-tutorial
 usage
 render-book

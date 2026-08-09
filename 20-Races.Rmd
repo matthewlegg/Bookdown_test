@@ -2,19 +2,17 @@
 
 ## Existing D&D Races & Species allowed
 
-The following existing races are playable:
+The following races found in existing 5e and 5.5e books are playable:
 
-Players Handbook (5.5e): Human, Halfling, Elf, Aasimar, Tiefling, Gnome 
+Players Handbook (2024 / 5.5e): [Human](https://www.dndbeyond.com/species/1751441-human), [Halfling](https://www.dndbeyond.com/species/1751440-halfling), [Elf](https://www.dndbeyond.com/species/1751437-elf), [Gnome](https://www.dndbeyond.com/species/1751438-gnome), [Aasimar](https://www.dndbeyond.com/species/1751434-aasimar), [Tiefling](https://www.dndbeyond.com/species/1751443-tiefling)
 
-Mordenkainen's Monsters of the Multiverse: Fire Genasi, Air Genasi, Water Genasi, Goblin, Hobgoblin, Kenku, Kobold, Tabaxi, Triton, Gith, Tortle, Changeling, Eladrin, Harengon, Shadar Kai
+Mordenkainen's Monsters of the Multiverse: [Changeling,](https://www.dndbeyond.com/species/1026382-changeling) [Deep Gnome](https://www.dndbeyond.com/species/1026383-deep-gnome), [Eladrin](https://www.dndbeyond.com/species/1026386-eladrin), [Air Genasi](https://www.dndbeyond.com/species/1026379-air-genasi), [Fire Genasi](https://www.dndbeyond.com/species/1026388-fire-genasi), [Water Genasi,](https://www.dndbeyond.com/species/1026406-water-genasi) [Githyanki,](https://www.dndbeyond.com/species/1026389-githyanki) [Githzerai,](https://www.dndbeyond.com/species/1026390-githzerai) [Goblin,](https://www.dndbeyond.com/species/1026391-goblin) [Harengon,](https://www.dndbeyond.com/species/814914-harengon) [Hobgoblin,](https://www.dndbeyond.com/species/1026393-hobgoblin) [Kenku,](https://www.dndbeyond.com/species/1026394-kenku) [Kobold,](https://www.dndbeyond.com/species/1026395-kobold) [Sea Elf,](https://www.dndbeyond.com/species/1026400-sea-elf) [Shadar Kai,](https://www.dndbeyond.com/species/1026401-shadar-kai) [Shifter,](https://www.dndbeyond.com/species/1026402-shifter) [Tabaxi,](https://www.dndbeyond.com/species/1026403-tabaxi) [Tortle,](https://www.dndbeyond.com/species/1026404-tortle) [Triton](https://www.dndbeyond.com/species/1026405-triton)
 
-Ravenloft: Dhampir, Hexblood, Reborn
+Ravenloft: [Dhampir](https://www.dndbeyond.com/species/2108557-dhampir), [Hexblood](https://www.dndbeyond.com/species/2108558-hexblood), [Reborn](https://www.dndbeyond.com/species/2108559-reborn)
 
-Plasmoid
+Spelljammer: [Plasmoid](https://dnd5e.wikidot.com/lineage:plasmoid), [Thri-kreen](https://dnd5e.wikidot.com/lineage:thri-kreen)
 
-Heliana's Races (some of)
-
-Grim Hollow Races (maybe?)
+Heliana's: [Cyclopian (AKA Nothic),](https://www.dndbeyond.com/species/1882285-cyclopian) [Gobboc,](https://www.dndbeyond.com/species/1882286-gobboc) [Rakin,](https://www.dndbeyond.com/species/1882288-rakin) [Lotol](https://www.dndbeyond.com/species/2120968-lotol)
 
 ## Notes on Character Size {#large-races}
 
@@ -56,9 +54,9 @@ Unless otherwise specified, small player characters always gain the following tr
 Oversized Weapons: Powerful Build
 :::
 
-Large creatures use a different weapons table to Medium or small creatures (see the weapons tables). This includes very heavy weapons which are larger and deal higher damage than the typical weapons available in 5e D&D. While ordinarily medium creatures have disadvantage when wielding such weapons, creatures with the Powerful Build trait can utilise these weapons effectively, albeit typically dealing slightly less damage than their large counterparts*.
+Large creatures use a different weapons table to Medium or small creatures (see the weapons tables). This includes very heavy weapons which are larger and deal higher damage than the typical weapons available in 5e D&D. While ordinarily medium creatures have disadvantage when wielding such weapons, creatures with the Powerful Build trait can utilise these weapons effectively, albeit typically dealing slightly less damage than their large counterparts\*.
 
-[*Goliaths with the "Lithe Half-Giant" feature use the Large creature weapon table despite being considered medium creatures.]{.grey-annotation}
+[\*Goliaths with the "Lithe Half-Giant" feature use the Large creature weapon table despite being considered medium creatures.]{.grey-annotation}
 
 ## Bearfolk
 
@@ -333,8 +331,7 @@ You gain two further traits from the following list. Traits available to you wil
 **Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest.\
 [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
-**Breath Weapon Adept.** You gain the Sorcerous Burst cantrip. This version of the cantrip has a range of 60ft, always deals the damage type of your Breath Weapon and requires verbal components only. Constitution is your spellcasting ability for this spell.
-[(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
+**Breath Weapon Adept.** You gain the Sorcerous Burst cantrip. This version of the cantrip has a range of 60ft, always deals the damage type of your Breath Weapon and requires verbal components only. Constitution is your spellcasting ability for this spell. [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
 **Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.\
 [(Requires: Blue, Red, Bronze, Gold, Silver, Dragon Turtle, Sea Serpent or Shadow Ancestry)]{.grey-annotation}
@@ -969,6 +966,78 @@ Labyrinthine Recall
 
 You always know which direction is north, and you have advantage on any Wisdom (Survival) check you make to navigate or track.
 
+## Mycelian
+
+::: center-img
+![It's the zombies from the last of us, but sentient](_images/Mushroom.jpg){width="100%"}
+:::
+
+\
+
+::: lore-box
+Note: This race originally appeared in Heliana’s Guide to Monster Hunting: Part 2. This version incorporates changes from 5.5e, my large race options, and an increased number of inheritable traits from Symbiotic Assimilation.
+:::
+
+::: sub-heading
+Creature Type
+:::
+
+You are a humanoid. You are also considered a plant for any prerequisite or effect that requires you to be a plant.
+
+::: sub-heading
+Age
+:::
+
+In the right conditions, a corpse inoculated with mycelial spores can rise as a newly-formed, adult mycelian in under a month. Mycelians tend to wear out a host in less than 7 years, and periodically redeploy their personal spores to animate a new, fresher corpse. Theoretically, a mycelian can live on indefinitely, their minds and personalities changing with each rebirth.
+
+::: sub-heading
+Size
+:::
+
+Mycelians run the full gamut of humanoid species, from 2-foot-tall gnomes to 10-foot-tall firbolgs. Your height, weight, and size are determined by the species to which your host corpse belonged in life. A typical host can be Small or Medium. You may also pick a large host by spending one of your trait picks from the Symbiotic Assimilation feature.
+
+::: sub-heading
+Speed
+:::
+
+Your base walking speed is dictated by the species to which your host corpse belonged in life. It is typically 30 feet.
+
+::: sub-heading
+Insporeation
+:::
+
+When you die within 100 feet of a humanoid corpse that has been dead no longer than 24 hours, and that hasn’t been subjected to magic that accelerates decay or prevents decay (such as the gentle repose spell), you can use your dying breath to eject spores to inhabit that corpse. Roll percentile dice. If you roll a number equal to or higher than the distance between your body and the corpse in feet, your spores take hold. For example, a target 30 feet away requires a roll of 30 or higher to succeed.
+
+On a success, the new body rises again in 2d6 days. You gain the benefits of a long rest and lose your previous Symbiotic Assimilation adaptations, gaining new ones according to the species of the target corpse. On a failure, you die as normal.
+
+::: sub-heading
+Spore Spray
+:::
+
+As a reaction when a creature within 10 feet of you hits you with a melee attack, you can attempt to poison it with a burst of spores. The target must succeed on a Constitution saving throw (DC = 8 + your Constitution modifier + your proficiency bonus) or take 1d8 poison damage and become poisoned until the end of its next turn. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. This damage increases to 2d8 at 5th level.
+
+::: sub-heading
+Symbiotic Assimilation
+:::
+
+Your unique lifecycle allows you to co-opt some of the adaptations of your host corpse. Choose up to two of the following adaptations; the species to which your host corpse belonged must have had this species trait in order for you to choose it (GM’s discretion).
+
+**Alternative Locomotion.** You gain one movement mode possessed by your host species, such as a climbing or swimming speed. The movement speed is equal to your walking speed, unless otherwise specified by the host species.
+
+**Damage Resistance.** You have resistance to one damage type determined by your host body’s species.
+
+**Darkvision.** The darkened chambers of The Low are your home. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
+
+**Muscle Memory.** You gain proficiency in one skill of your choice. You can take this option multiple times.
+
+**Natural Weapon.** You have a physical characteristic, such as horns, claws, or teeth, that acts as a natural melee weapon which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning, piercing, or slashing damage (depending on the body part) equal to your Strength modifier plus a damage die determined by your host body’s species, instead of the bludgeoning damage normal for an unarmed strike.
+
+**Natural Armour.** When you aren't wearing armour, your AC is 13 + your Dexterity modifier, provided your host species possessed natural armour. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor.
+
+**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+
+**Unusually Large.** You are able to inhabit the dead body of a Large creature, increasing your size to Large and gaining the appropriate traits, including ability score modifications.
+
 ## Orc
 
 ::: center-img
@@ -1117,14 +1186,6 @@ Any sufficiently thorough attempt at destroying the body of the samsaran will fo
 If a Samsaran's life is cut short by particularly evil or unjust means, the soul may become corrupted with a desire for vengeance, reincarnating as a revenant. In this case, the revenant will only be allowed to return as a samsaran once again if it inhabits the samsaran's original body, this body is not destroyed, and the revenant finishes it's task without succumbing to a great evil in the process.
 :::
 
-## Thri-Kreen
+## Tree people
 
-(Large - 4 arms with powerful build)
-
-## Tortle
-
-(Optional Large Variant)
-
-Tree people
-
-Simic Hybrid (Mutagenic)
+## Simic Hybrid (Mutagenic)
