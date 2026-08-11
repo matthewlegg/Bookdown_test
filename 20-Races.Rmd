@@ -16,7 +16,20 @@ Heliana's: [Cyclopian (AKA Nothic),](https://www.dndbeyond.com/species/1882285-c
 
 ## Notes on Character Size {#large-races}
 
-I want size to be meaningful; There will be strengths and drawbacks to playing a large or small creature.
+::: center-img
+![Approximate size chart based on average heights for each race](_images/Height%20Chart.png){width="100%"}
+:::
+
+\
+When setting out to create these rules, I wanted to increase the amount of available races and player sizes by expanding the playable character size to large, but I also wanted character size to be an impactful decision. In base 5e, races like the Genasi and Aasimar allowed for you to choose whether you were a large or small character. However, mechanically the only difference was that playing a small character meant you couldn't wield certain weapons, and were much more easily swallowed. Playing a large creature wasn't even an option, outside of magical effects like the enlarge / reduce spell.
+
+With these rules, there are clear advantages and disadvantages depending on your size. Small creatures will generally be more dextrous, and will likely find it easier to afford armour and other gear relative to their medium and large counterparts, but will be slightly physically weaker and limited in the size of weaponry they can employ. Conversely, large creatures will be stronger, but slower. They will be able to bring much heavier and more damaging weapons to bear against their foes, however they will find that armour and other gear will be far more expensive for them. 
+
+The hope is this will provide some interesting choices for the players - will they invest heavily in their Minotaur paladin in order to make them an unstoppable force on the battlefield? Or would their money go further if they outfitted the rest of the party instead? Perhaps to offset the large character's likely low AC at low levels, spells such as barkskin or shield of faith may be more important than it would be for a smaller character.
+
+To offset any potential issues this may cause with player loot, sufficiently powerful magical items will automatically re-scale to fit the wielder, meaning there shouldn't be any situations where treasure is locked to a particular character due to their size.
+
+See below for details on the modifications to a character's stats based on size:
 
 ::: sub-heading2
 Large Character Traits
@@ -31,6 +44,8 @@ Unless otherwise specified, large player characters always gain the following tr
 **Armor.** Due to your large size, normal armor built for a humanoid will not fit you. You can get specially made armour to fit your large build, although it weighs double and costs 4 times as much as the listed value. Enchanted armor which is considered rare or higher will magically scale to fit your size, as will any magical rings or bands etc.
 
 **Weapons.** Due to your large size, typical light weapons are virtually unusable to you, regular weapons designed for medium creatures are much lighter for you, and you are capable of wielding weapons larger still. See the weapons table chapter for more info. Enchanted weapons which are rare or higher will magically scale to their large size equivalents (This will be detailed in the weapon stats).
+
+**Unarmed Damage** A large creature's unarmed strikes deal 1d4 + Strength bludgeoning damage, rather than the usual 1+ Strength. If a large creature has martial arts dice from the monk class, the size of this dice increases by one step compared to small and medium characters (to a max of 2d8 at 17th level). If a large creature has the "Unarmed Fighting" Fighting Style Feat, the damage dice from this feat is also increased by one size. 
 
 **Food.** Due to your immense height and weight, you require 4x the amount of food of a medium humanoid.
 
@@ -61,7 +76,7 @@ Large creatures use a different weapons table to Medium or small creatures (see 
 ## Bearfolk
 
 ::: center-img
-![Something funny about Teddy Bears](_images/Bearfolk.jpg){width="100%"}
+![This is your official D&D Build-A-Bear](_images/Bearfolk.jpg){width="100%"}
 :::
 
 \
@@ -122,11 +137,11 @@ Ursine Origin (variant races)
 
 Though originating in the feywild, the Bearfolk still share a connection with their wild counterparts. You may choose from the following alternative ursine ancestries. Features here replace the ones listed above where noted.
 
-**Cave Bear**: The most common Bearfolk race.
+***Cave Bear.*** The most common Bearfolk race.
 
-**Polar Bear**: Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain a swimming speed equal to your walking speed (*replaces climb speed*). You gain resistance to cold damage.
+***Polar Bear.*** Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain a swimming speed equal to your walking speed (*replaces climb speed*). You gain resistance to cold damage.
 
-**Owlbear**: Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain darkvision up to 60ft, allowing you to see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. Due to the tough spines of their feathered hides and pseudo-winged arms, Owlbear Bearfolk cannot wear heavy armor.
+***Owlbear.*** Your size is Large (*replaces powerful build*). Your claw attack deals 1d8 plus Strength slashing damage. You gain darkvision up to 60ft, allowing you to see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. Due to the tough spines of their feathered hides and pseudo-winged arms, Owlbear Bearfolk cannot wear heavy armor.
 
 ## Bugbear
 
@@ -325,15 +340,15 @@ Draconic Adaptations
 
 You gain two further traits from the following list. Traits available to you will depend on the ancestry chosen in your Draconic Ancestry feature.
 
-**Amphibious.** You can breathe both air and water, and have a swim speed equal to your speed.\
+***Amphibious.*** You can breathe both air and water, and have a swim speed equal to your speed.\
 [(Requires: Black, Green, Bronze, Gold, Dragon Turtle, or Sea Serpent Ancestry)]{.grey-annotation}
 
-**Draconic Flight.** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest.\
+***Draconic Flight.*** When you reach character level 5, you can channel draconic magic to give yourself temporary flight. As a Bonus Action, you sprout spectral wings on your back that last for 10 minutes or until you retract the wings (no action required) or have the Incapacitated condition. During that time, you have a Fly Speed equal to your Speed. Your wings appear to be made of the same energy as your Breath Weapon. Once you use this trait, you can’t use it again until you finish a Long Rest.\
 [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
-**Breath Weapon Adept.** You gain the Sorcerous Burst cantrip. This version of the cantrip has a range of 60ft, always deals the damage type of your Breath Weapon and requires verbal components only. Constitution is your spellcasting ability for this spell. [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
+***Breath Weapon Adept.*** You gain the Sorcerous Burst cantrip. This version of the cantrip has a range of 60ft, always deals the damage type of your Breath Weapon and requires verbal components only. Constitution is your spellcasting ability for this spell. [(Requires: All Chromatic, All Metallic, Moonstone or Shadow Ancestry)]{.grey-annotation}
 
-**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.\
+***Powerful Build.*** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.\
 [(Requires: Blue, Red, Bronze, Gold, Silver, Dragon Turtle, Sea Serpent or Shadow Ancestry)]{.grey-annotation}
 
 *\*Note: Some ancestries may only have 2 options available*
@@ -652,17 +667,17 @@ Giant Ancestry
 
 You are descended from Giants. Choose one of the following benefits—a supernatural boon from your ancestry; you can use the chosen benefit a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest:
 
-**Cloud’s Jaunt (Cloud Giant).** As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
+***Cloud’s Jaunt (Cloud Giant).*** As a Bonus Action, you magically teleport up to 30 feet to an unoccupied space you can see.
 
-**Fire’s Burn (Fire Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
+***Fire’s Burn (Fire Giant).*** When you hit a target with an attack roll and deal damage to it, you can also deal 1d10 Fire damage to that target.
 
-**Frost’s Chill (Frost Giant).** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
+***Frost’s Chill (Frost Giant).*** When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
 
-**Hill’s Tumble (Hill Giant).** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.
+***Hill’s Tumble (Hill Giant).*** When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the Prone condition.
 
-**Stone’s Endurance (Stone Giant).** When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
+***Stone’s Endurance (Stone Giant).*** When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
 
-**Storm’s Thunder (Storm Giant).** When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.
+***Storm’s Thunder (Storm Giant).*** When you take damage from a creature within 60 feet of you, you can take a Reaction to deal 1d8 Thunder damage to that creature.
 
 ::: sub-heading
 Goliath Size
@@ -670,9 +685,9 @@ Goliath Size
 
 Goliaths sit on the border between medium and large races, which they fall into is entirely dependant on the individual. Depending on the size you choose when creating this character, you gain the following traits:
 
-**Lithe Half-Giant.** If you are a **Medium** Goliath, you have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity. You use the rules for large creatures when it comes to the weapons you can wield. Your maximum height is 8ft tall and you require double the food of a medium humanoid.
+***Lithe Half-Giant.*** If you are a **Medium** Goliath, you have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity. You use the rules for large creatures when it comes to the weapons you can wield. Your maximum height is 8ft tall and you require double the food of a medium humanoid.
 
-**Towering Half-Giant.** If you are a **Large** Goliath, you gain all the [traits granted to Large characters](#large-races) including ability score modifiers, armor and weapon tables. Your maximum height is 10ft tall.
+***Towering Half-Giant.*** If you are a **Large** Goliath, you gain all the [traits granted to Large characters](#large-races) including ability score modifiers, armor and weapon tables. Your maximum height is 10ft tall.
 
 ## Half Ogre
 
@@ -727,7 +742,7 @@ You can eat almost anything and gain advantage on constitution checks and saves 
 ## Leonin
 
 ::: center-img
-![Something funny about big cats / housecat](_images/Leonin.jpg){width="100%"}
+![Hakuna Matata, bitches](_images/Leonin.jpg){width="100%"}
 :::
 
 \
@@ -842,11 +857,11 @@ Life-long Growth
 
 You may choose the size of lizardfolk you are playing as. Note, typically the larger a lizardfolk is, the older they are. Choose from one of the options below:
 
-**Schnappi**: Your size is small. You gain a bite attack which is a natural weapon that deals 1d6 plus Strength bludgeoning damage. You also either gain an additional skill pick from the Nature's Intuition feature, or can gain proficiency in one of the following artisan's tools: Cook's Utensils, Brewer's Supplies, Leatherworker's Tools.
+***Schnappi.*** Your size is small. You gain a bite attack which is a natural weapon that deals 1d6 plus Strength bludgeoning damage. You also either gain an additional skill pick from the Nature's Intuition feature, or can gain proficiency in one of the following artisan's tools: Cook's Utensils, Brewer's Supplies, Leatherworker's Tools.
 
-**Crocodilian**: Your size is Medium. You gain a bite attack which is a natural weapon that deals 1d8 plus Strength bludgeoning damage. You also gain the Powerful Build feature, granting you Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+***Crocodilian.*** Your size is Medium. You gain a bite attack which is a natural weapon that deals 1d8 plus Strength bludgeoning damage. You also gain the Powerful Build feature, granting you Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
-**Deinosuchian**: Your size is Large. You gain a bite attack which is a natural weapon that deals 1d10 plus Strength bludgeoning damage.
+***Deinosuchian.*** Your size is Large. You gain a bite attack which is a natural weapon that deals 1d10 plus Strength bludgeoning damage.
 
 ::: sub-heading
 Hungry Jaws
@@ -975,7 +990,7 @@ You always know which direction is north, and you have advantage on any Wisdom (
 \
 
 ::: lore-box
-Note: This race originally appeared in Heliana’s Guide to Monster Hunting: Part 2. This version incorporates changes from 5.5e, my large race options, and an increased number of inheritable traits from Symbiotic Assimilation.
+**Note:** This race originally appeared in Heliana’s Guide to Monster Hunting: Part 2. This version incorporates changes from 5.5e, my large race options, and an increased number of inheritable traits from Symbiotic Assimilation.
 :::
 
 ::: sub-heading
@@ -1022,26 +1037,26 @@ Symbiotic Assimilation
 
 Your unique lifecycle allows you to co-opt some of the adaptations of your host corpse. Choose up to two of the following adaptations; the species to which your host corpse belonged must have had this species trait in order for you to choose it (GM’s discretion).
 
-**Alternative Locomotion.** You gain one movement mode possessed by your host species, such as a climbing or swimming speed. The movement speed is equal to your walking speed, unless otherwise specified by the host species.
+***Alternative Locomotion.*** You gain one movement mode possessed by your host species, such as a climbing or swimming speed. The movement speed is equal to your walking speed, unless otherwise specified by the host species.
 
-**Damage Resistance.** You have resistance to one damage type determined by your host body’s species.
+***Damage Resistance.*** You have resistance to one damage type determined by your host body’s species.
 
-**Darkvision.** The darkened chambers of The Low are your home. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
+***Darkvision.*** The darkened chambers of The Low are your home. You have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern colour in darkness, only shades of grey.
 
-**Muscle Memory.** You gain proficiency in one skill of your choice. You can take this option multiple times.
+***Muscle Memory.*** You gain proficiency in one skill of your choice. You can take this option multiple times.
 
-**Natural Weapon.** You have a physical characteristic, such as horns, claws, or teeth, that acts as a natural melee weapon which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning, piercing, or slashing damage (depending on the body part) equal to your Strength modifier plus a damage die determined by your host body’s species, instead of the bludgeoning damage normal for an unarmed strike.
+***Natural Weapon.*** You have a physical characteristic, such as horns, claws, or teeth, that acts as a natural melee weapon which you can use to make unarmed strikes. If you hit with it, you deal bludgeoning, piercing, or slashing damage (depending on the body part) equal to your Strength modifier plus a damage die determined by your host body’s species, instead of the bludgeoning damage normal for an unarmed strike.
 
-**Natural Armour.** When you aren't wearing armour, your AC is 13 + your Dexterity modifier, provided your host species possessed natural armour. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor.
+***Natural Armour.*** When you aren't wearing armour, your AC is 13 + your Dexterity modifier, provided your host species possessed natural armour. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield’s benefits apply as normal while you use your natural armor.
 
-**Powerful Build.** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+***Powerful Build.*** You have Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
-**Unusually Large.** You are able to inhabit the dead body of a Large creature, increasing your size to Large and gaining the appropriate traits, including ability score modifications.
+***Unusually Large.*** You are able to inhabit the dead body of a Large creature, increasing your size to Large and gaining the appropriate traits, including ability score modifications.
 
 ## Orc
 
 ::: center-img
-![Toughest motherfuckers I've ever seen](_images/Orcs.jpg){width="100%"}
+![Meat is back on the menu boys!](_images/Orcs.jpg){width="100%"}
 :::
 
 \
@@ -1096,11 +1111,11 @@ Orcish Lineage
 
 You may choose to come from one of the following orc lineages, presented in order of how commonly they are encountered:
 
-**Orc**: The common orc, known as noble warriors, skilled smiths and deadly hunters. Your size is Medium. You gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, History, Stealth, or Survival. You also gain proficiency in one artisan's tool of your choice.
+***Orc.*** The common orc, known as noble warriors, skilled smiths and deadly hunters. Your size is Medium. You gain proficiency with one of the following skills of your choice: Animal Handling, Medicine, Nature, History, Stealth, or Survival. You also gain proficiency in one artisan's tool of your choice.
 
-**Orog**: The Orog, a hardy, bulky caste of orcs native to the underdark. Your size is Medium. You gain the Powerful Build feature, granting you Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
+***Orog.*** The Orog, a hardy, bulky caste of orcs native to the underdark. Your size is Medium. You gain the Powerful Build feature, granting you Advantage on any ability check you make to end the Grappled condition. You also count as one size larger when determining your carrying capacity.
 
-**Ogrillon**: The ogrillon, known amongst orc tribes as the Varg ("prince" in common), are a hybrid race of orc and ogre descent, incredibly rare and equally feared on the battlefield. If playing as an Ogrillon, your size is Large and your creature type counts as Giant in addition to Humanoid.
+***Ogrillon.*** The ogrillon, known amongst orc tribes as the Varg ("prince" in common), are a hybrid race of orc and ogre descent, incredibly rare and equally feared on the battlefield. If playing as an Ogrillon, your size is Large and your creature type counts as Giant in addition to Humanoid.
 
 ## Samsaran
 
