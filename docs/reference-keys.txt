@@ -93,6 +93,10 @@ orc
 samsaran
 treant-juvenile
 simic-hybrid-mutagenic
+subclasses
+cleric-diabolic-domain
+cleric-dream-domain
+cleric-travel-domain
 bookdown-tutorial
 usage
 render-book

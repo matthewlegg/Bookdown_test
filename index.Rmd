@@ -52,9 +52,11 @@ Then an intro covering what this book is and how to use it
 - Strong varied archetypes unlike any other setting
 - A mix of familiar settings from the likes of Arthurian Legend, Norse Mythology, Tolkeinien fantasy, and classic D&D flavour, mixed in with references from videogames and other pop culture, and totally original ideas, all combined together
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, include=FALSE}
 
 library(DT)
+library(dplyr)
+library(readr)
 library(knitr)
 
 ```

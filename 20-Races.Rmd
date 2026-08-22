@@ -310,7 +310,7 @@ Draconic Ancestry
 Your lineage stems from a dragon progenitor. Choose the kind of dragon from the Draconic Ancestors table. Your choice affects your Breath Weapon and Damage Resistance traits as well as your appearance.
 
 ```{r, layout="l-body-outset", echo=FALSE}
-Dragonborn <- read.csv("_data/Dragonborn.csv", fileEncoding = "Windows-1252")
+Dragonborn <- read_csv("_data/Dragonborn.csv", show_col_types = FALSE)
 kable(Dragonborn)
 ```
 
