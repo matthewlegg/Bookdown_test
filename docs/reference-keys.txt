@@ -91,7 +91,7 @@ minotaur
 mycelian
 orc
 samsaran
-tree-people
+treant-juvenile
 simic-hybrid-mutagenic
 bookdown-tutorial
 usage
