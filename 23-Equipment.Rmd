@@ -1,0 +1,13 @@
+# Equipment
+
+## Firearms
+
+5.5e introduces firearms into the base weaons list for characters. However, their implementation essentially puts them as expensive, short range but higher damage versions of crossbows, completely ignoring their very distinct features and tactical niche the weapons held when they were first introduced in the late medieval period. These rules overhaul the 5.5e implementation in favour of emphasizing these differences.
+
+Historically, real early firearms:
+ - Were easy to train for & use, making it a go-to weapon for relatively low skilled infantry
+ - Were hard to reload and maintain, with the best soldiers struggling to fire more than a couple shots per minute
+ - Were able to pierce all but the thickest of plate armor, leading first to the reinforcement, and eventually to the redundancy, of medieval plate armor
+ - Were invented in the late medieval period, but did not reach common usage until the early renaissance era
+ 
+The following mechanics are therefore aimed at depicting a (broadly sensible) late-medieval setting featuring rare early firearm technology. 

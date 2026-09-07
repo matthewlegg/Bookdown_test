@@ -97,6 +97,9 @@ subclasses
 cleric-diabolic-domain
 cleric-dream-domain
 cleric-travel-domain
+feats-character-options
+equipment
+firearms
 bookdown-tutorial
 usage
 render-book
