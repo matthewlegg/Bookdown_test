@@ -1,0 +1,177 @@
+# Revised Ranger
+
+## Ranger Class Features
+
+As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
+
+::: sub-heading
+Level 1: Spellcasting
+:::
+
+You have learned to produce magical effects. While mechanically these use spell slots, it is up to you which of your spells are practical effects produced by great skill, knowledge, and application of the resources available to you, and which of them are products of mysticism, conjuration, and other magical techniques you have learned on your travels.
+
+***Spell Slots.*** The Ranger Features table shows how many spell slots you have to cast your level 1+ spells. You regain all expended slots when you finish a Long Rest.
+
+***Prepared Spells of Level 1+.*** You prepare the list of level 1+ spells that are available for you to cast with this feature. To start, choose two level 1 Ranger spells.
+
+The number of spells on your list increases as you gain Ranger levels, as shown in the Prepared Spells column of the Ranger Features table. Whenever that number increases, choose additional Ranger spells until the number of spells on your list matches the number in the Ranger Features table. The chosen spells must be of a level for which you have spell slots. For example, if you’re a level 5 Ranger, your list of prepared spells can include six Ranger spells of level 1 or 2 in any combination.
+
+If another Ranger feature gives you spells that you always have prepared, those spells don’t count against the number of spells you can prepare with this feature, but those spells otherwise count as Ranger spells for you.
+
+***Changing Your Prepared Spells.*** Whenever you finish a Long Rest, you can replace one spell on your list with another Ranger spell for which you have spell slots.
+
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Ranger spells.
+
+***Spellcasting Focus.*** You can use a Druidic Focus as a Spellcasting Focus for your Ranger spells.
+
+::: sub-heading
+Level 1: Deft Explorer
+:::
+
+If you choose this class at level 1, you gain the following benefit:
+
+***Languages.*** Thanks to your travels, you know two additional languages of your choice.
+
+::: sub-heading
+Level 1: Favored Enemy
+:::
+
+You are an expert in tracking foes and exploiting their weaknesses.
+
+You always have the Hunter’s Mark spell prepared. You can cast it twice without expending a spell slot, and you regain all expended uses of this ability when you finish a Long Rest.
+
+Additionally, you may choose two of the following Favored Enemy augmentations. Unless otherwise specified, whenever you cast Hunter's Mark you may choose to apply one of these augmentations for the duration of the spell, which modifies the way the spell normally functions. You learn one additional Favored Enemy augmentation at 5th, 9th, 13th, and 17th level, as well as gaining an additional use of this ability per long rest at these levels. Whenever you gain a Ranger level, you may switch out one of your existing augmentations for another on this list with which you meet the requirements.
+
+***Hunter's Prey.*** While marked, you always know the direction and distance to the creature as long as they are within the spell's range, and they gain no offensive or defensive benefits against you if they are invisible.
+
+***Hunter's Companion.*** You can summon a nature spirit that assumes an animal form to aid you. As a Magic action, you can expend a spell slot or a use of your Favored Enemy feature to cast the Find Familiar spell without Material components. When you cast the spell in this way, the familiar disappears when you finish a Long Rest, unless you spend a use of this feature or a spell slot to maintain it.
+
+***Cleansing Fire.*** You channel your magic into a weapon or set of ammunition, causing it to erupt in flame. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. This damage is Fire damage. You do not have to mark a creature you can see when activating this version of the spell. Your weapon also emits a bright light in a 10ft radius, and dim light to a further 10ft.
+
+***Biting Ice.*** You imbue your weapon or ammunition with the chill of the grave, causing it to form a thick layer of glistening frost. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. This damage is Cold damage. You do not have to mark a creature you can see when activating this version of the spell.
+
+***Heighten Senses. (Req. Level 6 Ranger)*** Instead of channeling magic, you focus your energy into honing your senses and speeding your reflexes. Hunter's Mark deals the same damage as the weapon used instead of Force damage, and does not require concentration.
+
+***Hunter's Oils. (Req. Level 6 Ranger)*** You coat one of your weapons in a deadly poison or oil, causing it to deal extra damage. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. This damage is Poison damage. You do not have to mark a creature you can see when activating this version of the spell, and the spell does not require concentration.
+
+***Witch Hunter. (Req. Level 6 Ranger)*** Your mark grants you the ability to pre-empt your target's spells and abilities. You have advantage on saving throws imposed on you by the marked creature.
+
+***Arcane Weapon. (Req. Level 6 Ranger)*** You channel your magic into a weapon or set of ammunition, which pulses with arcane energy. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. The damage type dealt by the weapon and the extra damage granted by this spell are both Force damage. You do not have to mark a creature you can see when activating this version of the spell.
+
+***Blessed Weapon. (Req. Level 11 Ranger)*** You channel the blessings of the supernatural and divine into your weapon. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. This damage is Radiant damage. The weapon's attacks also count as silvered if the weapon wasn't already. You do not have to mark a creature you can see when activating this version of the spell.
+
+***Accursed Weapon. (Req. Level 11 Ranger)*** You place an unholy curse upon your weapon, causing it to prevent your foe's recovery. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. This damage is Necrotic damage. Creatures hit with an attack from this weapon cannot regain hitpoints until the start of your next turn. You do not have to mark a creature you can see when activating this version of the spell.
+
+***Eldritch Weapon. (Req. Level 16 Ranger)*** You conjure a shadowy weapon from another plane of existence, ready to face your foe. When casting Hunters Mark in this way, you may choose to either imbue an existing weapon or conjure a new weapon from thin air. In either case, the weapon's damage type is psychic damage, and the weapon deals additional damage equal to your Hunter's Mark die. If the weapon requires ammunition, this is also conjured along with the weapon itself when making an attack. You do not have to mark a creature you can see when activating this version of the spell.
+
+***Elemental Weapon. (Req. Level 16 Ranger)*** You suffuse your weapon with the power of the elemental chaos. Instead of dealing bonus damage to marked creatures, you cause one weapon you are holding to deal the bonus damage granted by Hunter's Mark. When you cast this spell you can choose the damage type of the weapon from the following list: Acid, Cold, Fire, Lightning, Thunder, Poison. You can use a bonus action on subsequent rounds to change the damage type of this spell to another option from that list. You do not have to mark a creature you can see when activating this version of the spell.
+
+::: sub-heading
+Level 1: Weapon Mastery
+:::
+
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longbows and Shortswords.
+
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose. For example, you could switch to using the mastery properties of Scimitars and Longswords.
+
+::: sub-heading
+Level 2: Ranger's Intuition
+:::
+
+You are constantly aware of your surroundings and are always able to assess a situation quickly, spot dangers, and assess the best course of action. You gain the following benefits:
+
+***Expertise.*** Choose one of your skill proficiencies with which you lack Expertise. You gain Expertise in that skill.
+
+***Battlefield Awareness.*** On your turn, you can take the Search or Study actions as a Bonus Action. When using these actions in combat, you have advantage on any skill checks you make relating to a creature who is the target of your Hunter's Mark. At the DM’s discretion, a suitably high roll might cause your character to make astute observations about a marked creature's attack patterns, capabilities, weaknesses or other notable features.
+
+::: sub-heading
+Level 2: Fighting Style
+:::
+
+You gain a Fighting Style feat of your choice. Instead of choosing one of those feats, you can choose the option below.
+
+***Druidic Warrior.*** You learn two Druid cantrips of your choice. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.
+
+::: sub-heading
+Level 3: Ranger Subclass
+:::
+
+You gain a Ranger subclass of your choice. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
+
+::: sub-heading
+Level 4: Ability Score Improvement
+:::
+
+You gain the Ability Score Improvement feat or another feat of your choice for which you qualify. You gain this feature again at Ranger levels 8, 12, and 16.
+
+::: sub-heading
+Level 5: Extra Attack
+:::
+
+You can attack twice instead of once whenever you take the Attack action on your turn.
+
+::: sub-heading
+Level 6: Roving
+:::
+
+You become further accustomed to traversing and hunting in the wilds and on the fringes of civilization.
+
+***Enhanced Mobility.*** Your Speed increases by 10 feet while you aren’t wearing Heavy armor. You also have a Climb Speed and a Swim Speed equal to your Speed.
+
+***Hunter's Mark Improvement.*** The damage die of your Hunter’s Mark is a d8 rather than a d6.
+
+::: sub-heading
+Level 9: Expertise
+:::
+
+Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
+
+::: sub-heading
+Level 10: Tireless
+:::
+
+Primal forces now help fuel you on your journeys, granting you the following benefits.
+
+***Wilderness Guide.*** You and creatures of your choice within 60 feet of yourself travel as if they were one category faster than their chosen Travel Pace, and difficult terrain doesn’t slow your travel time.
+
+***Enhanced Recovery.*** When taking a short rest, you may add your wisdom modifier (minimum of 1) to your hit die results. If you have no hit die remaining at the beginning of a Short Rest, you instantly recover one Ranger hit die.
+
+***Decrease Exhaustion.*** Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.
+
+::: sub-heading
+Level 13: Relentless Hunter
+:::
+
+***Hunter's Mark improvement.*** Taking damage can’t break your Concentration on Hunter’s Mark. The damage die of your Hunter’s Mark is a d10 rather than a d6.
+
+::: sub-heading
+Level 14: Nature’s Veil
+:::
+
+You invoke spirits of nature to magically hide yourself. As a Bonus Action, you can give yourself the Invisible condition until the end of your next turn.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a Long Rest.
+
+::: sub-heading
+Level 17: Precise Hunter
+:::
+
+***Hunter's Mark improvement.*** You have Advantage on attack rolls against the creature currently marked by your Hunter’s Mark. The damage die of your Hunter’s Mark is a d12 rather than a d6.
+
+::: sub-heading
+Level 18: Feral Senses
+:::
+
+Your connection to the forces of nature grants you Blindsight with a range of 30 feet.
+
+::: sub-heading
+Level 19: Epic Boon
+:::
+
+You gain an Epic Boon feat or another feat of your choice for which you qualify.
+
+::: sub-heading
+Level 20: Foe Slayer
+:::
+
+***Hunter's Mark improvement.*** You gain unlimited uses of your Favored Enemy feature, and Hunter's Mark no longer requires concentration, regardless of which augmentation is used. When casting the spell or as a Bonus Action while it is active you can mark additional targets beyond the first, up to a maximum number of simultaneously marked creatures equal to your Wisdom modifier (minimum 1). You may also change your augmentation when using a Bonus Action in this way. You always know the direction of any marked target and what plane of existence they are on, regardless of distance.

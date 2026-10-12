@@ -98,6 +98,8 @@ cleric-diabolic-domain
 cleric-dream-domain
 cleric-travel-domain
 feats-character-options
+revised-ranger
+ranger-class-features
 equipment
 firearms
 bookdown-tutorial

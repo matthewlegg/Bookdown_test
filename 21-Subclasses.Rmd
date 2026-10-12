@@ -91,7 +91,7 @@ Level 3: Divine Compass
 
 You gain proficiency in both Cartographer's Tools and Navigator's Tools. You have advantage on any checks where these tools can be utilized, or made to interpret, navigate by, or extract information from a map.
 
-Additionally, you have a supernatural sense to divine the path forward. You always have the Augury spell prepared. When utilizing this spell to choose a path, direction, or course of action which involves travelling to a particular place, you can use your tools or map in place of the usual material components for the spell, and these are not expended.
+Additionally, you have a supernatural sense to divine the path forward. You always have the Augury spell prepared. When utilizing this spell to choose a path, direction, or course of action which involves travelling to a particular place, you can use your tools or map in place of the usual material components for the spell.
 
 ::: sub-heading
 Level 3: Reposition
