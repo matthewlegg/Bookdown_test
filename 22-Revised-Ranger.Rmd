@@ -17,6 +17,8 @@ As a Multiclass Character
 - Gain the following traits from the Core Ranger Traits table: Hit Point Die, proficiency with Martial weapons, proficiency in one skill of your choice from the Ranger’s skill list, and training with Light and Medium armor and Shields.
 - Gain the Ranger’s level 1 features, which are listed in the Ranger Features table. See the multiclassing rules to determine your available spell slots.
 
+[**Core Ranger Traits Table & Ranger Features Table is available here.**](https://www.dndbeyond.com/classes/2190882-ranger)
+
 ## Ranger Class Features
 
 As a Ranger, you gain the following class features when you reach the specified Ranger levels. These features are listed in the Ranger Features table.
