@@ -99,6 +99,7 @@ cleric-dream-domain
 cleric-travel-domain
 feats-character-options
 revised-ranger
+becoming-a-ranger
 ranger-class-features
 equipment
 firearms
